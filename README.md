@@ -35,7 +35,7 @@ Fui militar por 11 anos e atualmente estou no cargo de Analista de Desenvolvimen
 
 <!-- Profile Views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomherc94&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tomherc94&label=Profile%20views&color=0e75b6&style=flat" alt="tomherc94" />
 </p>
 
 <!-- THE END -->
