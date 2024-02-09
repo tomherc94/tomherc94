@@ -4,10 +4,10 @@
  <!-- About section -->
 
 ---
-<div style="text-align: justify;">
+
 ✨ Sou um desenvolvedor backend e pai de 13 gatos 😺. Adoro jogar videogame e maratonar séries nas horas livres.
 Fui militar por 11 anos e atualmente estou no cargo de Analista de Desenvolvimento de Sistemas em uma empresa pública.
-</div>
+
 
 
 <!-- Conecct section -->
